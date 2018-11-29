@@ -1,0 +1,3 @@
+[submodule "vim-slumlord"]
+	path = vim-slumlord
+	url = git@github.com:scrooloose/vim-slumlord.git
